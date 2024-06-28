@@ -12,7 +12,6 @@ def show_error_box():
 
 for _ in range(5):
     show_error_box()
-    time.sleep(0.5)  
 
 print("5 error windows have been shown.")
 
